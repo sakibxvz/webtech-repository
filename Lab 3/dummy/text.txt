@@ -1,0 +1,6 @@
+Name
+Email
+DOB
+GENDER T
+Degree T
+Blood Group Dropdown
